@@ -1,0 +1,19 @@
+#fishImage{
+	width: 300px;
+	height: 200px;
+	margin-bottom: 10px;
+	border: 1px black solid;
+}
+ .halfborder{
+	font-style:italic;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+ .list{
+	 font-weight: bold;
+ }
+ #list{
+	 list-style:none;
+ }
+ 
